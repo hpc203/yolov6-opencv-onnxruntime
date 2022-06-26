@@ -7,3 +7,5 @@
 
 onnx文件在百度云盘，下载链接：https://pan.baidu.com/s/1XqnZaG_0AswxnsYv4sCk6A 
 提取码：1hii
+
+注意，在本套程序中，使用opencv的dnn模块读取onnx文件，需要opencv版本在4.5.4以上的才能成功读取onnx文件的
